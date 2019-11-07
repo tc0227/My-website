@@ -1,0 +1,22 @@
+img{
+  width: 600px;
+
+  }
+body{
+  color:cyan;
+  background: black;
+}
+
+nav:hover{
+  color: cyan;
+}
+nav{
+  color: cyan;
+}
+body{
+  font-family: 'Concert-one', serif;
+  font-size: 20px;
+}
+figcaption{
+  color:cyan;
+}
