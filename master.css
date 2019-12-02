@@ -3,20 +3,51 @@ img{
 
   }
 body{
-  color:cyan;
-  background: black;
+  color:white;
+  background: brown;
 }
 
 nav:hover{
-  color: cyan;
+  color: white;
 }
 nav{
-  color: cyan;
+  color: white;
 }
 body{
   font-family: 'Concert-one', serif;
   font-size: 20px;
 }
-figcaption{
-  color:cyan;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #111;
+}
+a{
+  color: black;
+}
+a:hover{
+  color:blue;
+}
+header{
+text-align: center;
+color:black;
 }
